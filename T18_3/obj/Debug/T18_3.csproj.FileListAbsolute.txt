@@ -1,7 +1,0 @@
-S:\work\FoAP\T18_3\bin\Debug\T18_3.exe.config
-S:\work\FoAP\T18_3\bin\Debug\T18_3.exe
-S:\work\FoAP\T18_3\bin\Debug\T18_3.pdb
-S:\work\FoAP\T18_3\obj\Debug\T18_3.csproj.AssemblyReference.cache
-S:\work\FoAP\T18_3\obj\Debug\T18_3.csproj.CoreCompileInputs.cache
-S:\work\FoAP\T18_3\obj\Debug\T18_3.exe
-S:\work\FoAP\T18_3\obj\Debug\T18_3.pdb
