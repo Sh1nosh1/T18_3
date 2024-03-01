@@ -49,13 +49,13 @@ namespace T18_3
         /// Input info
         /// </summary>
         /// <returns>new Circle</returns>
-        public static Square Input()
+        public static Circle Input()
         {
             Write("Enter name of figure: ");
             string name = ReadLine();
             Write("Enter the radius: ");
             double radius = Convert.ToDouble(ReadLine());
-            return new Square(name, radius);
+            return new Circle(name, radius);
         }
 
     }
